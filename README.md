@@ -1,4 +1,4 @@
-<a href="https://jdjuan.io"><img src="assets/header-v3.jpg" width="100%" alt="Juan Herrera. From a small idea to something useful. Software engineer, entrepreneur, speaker and writer." /></a>
+<a href="https://jdjuan.io"><img src="assets/header-v4.jpg" width="100%" alt="Hi, I'm Juan 👋. I build useful tools for everyday problems. Software engineer, entrepreneur, speaker and writer." /></a>
 
 <p align="center">
   <a href="https://jdjuan.io"><b>My website</b></a> &nbsp; / &nbsp;
@@ -7,7 +7,7 @@
   <a href="mailto:david.juanherrera@gmail.com"><b>Say hello</b></a>
 </p>
 
-### Hey, I'm Juan 👋
+### Hi, I'm Juan 👋
 
 I'm a software engineer and entrepreneur. I turn everyday frustrations into tools, experiment with AI, and write about what I learn along the way.
 
