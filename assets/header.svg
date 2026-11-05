@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Juan Herrera</title>
+  <desc id="desc">From a small idea to something useful. An illustrated workshop overlooking the mountains of Manizales.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#182D52"/><stop offset="1" stop-color="#304F75"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="420" rx="20" fill="url(#sky)"/>
+  <rect width="1200" height="420" rx="20" fill="url(#grid)"/>
+  <circle cx="1082" cy="83" r="36" fill="#F3C879"/>
+  <path d="M630 303L762 170L816 224L908 114L1057 278L1138 212L1200 269V400H630Z" fill="#668E9B" fill-opacity=".45"/>
+  <path d="M870 158L908 114L953 164L922 153L908 139L893 160Z" fill="#D3E6E6" fill-opacity=".7"/>
+  <path d="M670 338L815 261L886 299L1008 221L1200 320V400H670Z" fill="#325C70"/>
+  <path d="M0 390C180 364 310 410 513 386C716 362 921 378 1200 352V400Q1200 420 1180 420H20Q0 420 0 400Z" fill="#152B46"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="78" fill="#B8CEDF" font-size="19">Hola, I'm Juan.</text>
+    <text x="60" y="151" fill="#FFFFFF" font-size="64" font-weight="700" letter-spacing="-2">From a small idea</text>
+    <text x="60" y="224" fill="#FFFFFF" font-size="64" font-weight="700" letter-spacing="-2">to something useful.</text>
+    <text x="64" y="279" fill="#C4D5E7" font-size="21">Engineer, entrepreneur, speaker &amp; writer.</text>
+    <text x="64" y="355" fill="#F3C879" font-size="18">Manizales, Colombia</text>
+    <text x="64" y="382" fill="#B8CEDF" font-size="16">jdjuan.io</text>
+  </g>
+  <g transform="translate(824 222)">
+    <path d="M-18 118H310" stroke="#D4AD74" stroke-width="10" stroke-linecap="round"/>
+    <path d="M6 124V177M282 124V177" stroke="#BC9470" stroke-width="8"/>
+    <rect x="37" y="-6" width="191" height="116" rx="10" fill="#102238" stroke="#9BB8CB" stroke-width="3"/>
+    <circle cx="52" cy="7" r="3" fill="#EB988B"/><circle cx="64" cy="7" r="3" fill="#F3C879"/><circle cx="76" cy="7" r="3" fill="#92CABC"/>
+    <path d="M63 37L52 48L63 59M85 37L96 48L85 59" stroke="#92CABC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M115 40H195M115 54H170M53 77H146M53 90H184" stroke="#7293B3" stroke-width="5" stroke-linecap="round"/>
+    <path d="M117 110V118M96 118H169" stroke="#9BB8CB" stroke-width="5"/>
+    <path d="M252 79H280V111H252Z" fill="#F3C879"/>
+    
+    <path d="M260 79L254 47M269 79L275 43" stroke="#CEDDE7" stroke-width="5" stroke-linecap="round"/>
+    <path d="M-4 90Q-30 62 -14 43Q9 54 -4 90" fill="#92CABC"/>
+    <path d="M-4 90Q-1 55 20 59Q31 81 -4 90" fill="#6BAA9E"/>
+    <path d="M-19 89H12L7 113H-14Z" fill="#D9907D"/>
+  </g>
+</svg>
