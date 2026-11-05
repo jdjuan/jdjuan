@@ -1,4 +1,4 @@
-<a href="https://jdjuan.io"><img src="assets/header.svg" width="100%" alt="Juan Herrera. From a small idea to something useful. Software engineer, entrepreneur, speaker and writer in Manizales, Colombia." /></a>
+<a href="https://jdjuan.io"><img src="assets/header-v2.jpg" width="100%" alt="Juan Herrera. From a small idea to something useful. Software engineer, entrepreneur, speaker and writer in Manizales, Colombia." /></a>
 
 <p align="center">
   <a href="https://jdjuan.io"><b>My website</b></a> &nbsp; / &nbsp;
