@@ -1,4 +1,4 @@
-<a href="https://jdjuan.io"><img src="assets/header-v2.jpg" width="100%" alt="Juan Herrera. From a small idea to something useful. Software engineer, entrepreneur, speaker and writer in Manizales, Colombia." /></a>
+<a href="https://jdjuan.io"><img src="assets/header-v3.jpg" width="100%" alt="Juan Herrera. From a small idea to something useful. Software engineer, entrepreneur, speaker and writer." /></a>
 
 <p align="center">
   <a href="https://jdjuan.io"><b>My website</b></a> &nbsp; / &nbsp;
@@ -9,7 +9,7 @@
 
 ### Hey, I'm Juan 👋
 
-I'm a software engineer and entrepreneur in **Manizales, Colombia**. I turn everyday frustrations into tools, experiment with AI, and write about what I learn along the way.
+I'm a software engineer and entrepreneur. I turn everyday frustrations into tools, experiment with AI, and write about what I learn along the way.
 
 I like simple products, clear explanations, and taking an idea all the way to something people can actually use.
 
